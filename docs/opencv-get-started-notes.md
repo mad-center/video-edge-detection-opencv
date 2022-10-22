@@ -103,6 +103,7 @@ TODO READ
 - sobel 算子。涉及8个像素点。梯度值较大。先平滑再处理。|ΔX|+|ΔY|。线宽计算距离为2。
 - Laplacian 算子。4领域和8领域两种模版。
 - Scharr 算子。
+- Prewitt 算子。
 - 沈俊算子。参数a0。
 
 TODO READ。
