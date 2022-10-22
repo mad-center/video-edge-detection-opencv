@@ -46,6 +46,13 @@ If all goes well without errors, you can see three files are generated in `outpu
 ```
 The `2007-autumn-anime-spot-op-[canny]-[add-audio].mp4` is the final output result.
 
+## documents
+
+Some related documents are located in `docs` folder:
+
+- [edge-detect-quality](docs/edge-detect-quality.md): how to increase canny detect quality.
+- [opencv-get-started-notes.md](docs/opencv-get-started-notes.md): some basic opencv knowledge.
+
 ## LICENSE
 
 Mixed LICENSE
